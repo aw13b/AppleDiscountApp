@@ -13,3 +13,5 @@
 ### View Project:
 In progress...
 
+### Screen Shot of Application:
+![Test Score Application Picture](appleapp_screenshot.PNG)
