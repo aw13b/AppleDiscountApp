@@ -19,4 +19,4 @@ In progress...
 ### Screen Shot of Application:
 ![Apple App Screenshot](appleapp_screenshot2.PNG)
 
-![Apple App Screenshot, with inheritance](appleapp_screenshot1.PNG)
+![Apple App Screenshot, with inheritance](appleapp_screenshot.PNG)
