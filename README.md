@@ -17,4 +17,6 @@ Application is composed of 9 different classes, including a validator class to v
 In progress...
 
 ### Screen Shot of Application:
-![Test Score Application Picture](appleapp_screenshot.PNG)
+![Apple App Screenshot](appleapp_screenshot2.PNG)
+
+![Apple App Screenshot, with inheritance](appleapp_screenshot1.PNG)
